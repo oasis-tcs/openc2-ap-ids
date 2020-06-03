@@ -8,8 +8,8 @@ create and manage technical content in this TC GitHub repository as part of the 
 OASIS TC GitHub repositories, as described in [GitHub Repositories for OASIS TC Members' Chartered Work](https://www.oasis-open.org/resources/tcadmin/github-repositories-for-oasis-tc-members-chartered-work)
 are governed by the OASIS [TC Process](https://www.oasis-open.org/policies-guidelines/tc-process), 
 [IPR Policy](https://www.oasis-open.org/policies-guidelines/ipr), and other policies, similar to 
-TC Wikis, TC JIRA issues tracking instances, TC SVN/Subversion repositories, etc.  
-While they make use of public GitHub repositories, these TC GitHub repositories are distinct from 
+TC Wikis, TC JIRA issues tracking instances, TC SVN/Subversion repositories, etc. While they make use of 
+public GitHub repositories, these TC GitHub repositories are distinct from 
 [OASIS Open Repositories](https://www.oasis-open.org/resources/open-repositories), which are used 
 for development of open source [licensed content](https://www.oasis-open.org/resources/open-repositories/licenses).
 
