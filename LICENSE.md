@@ -8,5 +8,5 @@ and the Technical Committee's choice of [IPR Mode](https://www.oasis-open.org/po
 including any applicable [declarations](https://www.oasis-open.org/committees/openc2/ipr.php). 
 Feedback from non-TC members, if any, is governed by the terms of the [OASIS Feedback License](https://www.oasis-open.org/policies-guidelines/ipr#appendixa).
 
-Description of this repository is presented in the [README](https://github.com/oasis-tcs/openc2-gglpubsub/blob/master/README.md)
-file, and guidelines for contribution/participation are given in the [CONTRIBUTING](https://github.com/oasis-tcs/openc2-gglpubsub/blob/master/CONTRIBUTING.md) file.
+Description of this repository is presented in the [README](https://github.com/oasis-tcs/openc2-ap-ids/blob/master/README.md)
+file, and guidelines for contribution/participation are given in the [CONTRIBUTING](https://github.com/oasis-tcs/openc2-ap-ids/blob/master/CONTRIBUTING.md) file.
