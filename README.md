@@ -39,7 +39,7 @@ file for description of the license terms and OASIS policies applicable to the T
 GitHub project. Content in this repository is intended to be part of the OpenC2 TC's permanent 
 record of activity, visible and freely available for all to use, subject to applicable OASIS 
 policies, as presented in the repository 
-[LICENSE](https://github.com/oasis-tcs/openc2/blob/master/LICENSE.md).
+[LICENSE](https://github.com/oasis-tcs/openc2-ap-ids/blob/master/LICENSE.md).
 
 ## Further Description of this Repository
 
