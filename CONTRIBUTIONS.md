@@ -22,7 +22,7 @@ by the terms of the [OASIS Feedback License](https://www.oasis-open.org/policies
 [TC General Discussion List archives](https://lists.oasis-open.org/archives/openc2), and
 [OASIS Library](http://docs.oasis-open.org/openc2) -- content placed into this GitHub repository is 
 visible and publicly accessible.  Subject to applicable 
-[licensing]<a href="https://github.com/oasis-tcs/openc2-ap-ids/blob/master/LICENSE.md"> rules, 
+[licensing](https://github.com/oasis-tcs/openc2-ap-ids/blob/master/LICENSE.md) rules, 
 the repository content may be re-used freely, including the creation and publication of derivative works.
 
 **Cloning and forking**. Users of this repository may fork or clone it for use by any party. 
